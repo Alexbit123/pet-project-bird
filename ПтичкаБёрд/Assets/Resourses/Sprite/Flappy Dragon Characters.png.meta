@@ -1,0 +1,1202 @@
+fileFormatVersion: 2
+guid: dbc31b6739df681438d91a4c4859aaef
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Flappy Dragon Characters_0
+    21300002: Flappy Dragon Characters_1
+    21300004: Flappy Dragon Characters_2
+    21300006: Flappy Dragon Characters_3
+    21300008: Flappy Dragon Characters_4
+    21300010: Flappy Dragon Characters_5
+    21300012: Flappy Dragon Characters_6
+    21300014: Flappy Dragon Characters_7
+    21300016: Flappy Dragon Characters_8
+    21300018: Flappy Dragon Characters_9
+    21300020: Flappy Dragon Characters_10
+    21300022: Flappy Dragon Characters_11
+    21300024: Flappy Dragon Characters_12
+    21300026: Flappy Dragon Characters_13
+    21300028: Flappy Dragon Characters_14
+    21300030: Flappy Dragon Characters_15
+    21300032: Flappy Dragon Characters_16
+    21300034: Flappy Dragon Characters_17
+    21300036: Flappy Dragon Characters_18
+    21300038: Flappy Dragon Characters_19
+    21300040: Flappy Dragon Characters_20
+    21300042: Flappy Dragon Characters_21
+    21300044: Flappy Dragon Characters_22
+    21300046: Flappy Dragon Characters_23
+    21300048: Flappy Dragon Characters_24
+    21300050: Flappy Dragon Characters_25
+    21300052: Flappy Dragon Characters_26
+    21300054: Flappy Dragon Characters_27
+    21300056: Flappy Dragon Characters_28
+    21300058: Flappy Dragon Characters_29
+    21300060: Flappy Dragon Characters_30
+    21300062: Flappy Dragon Characters_31
+    21300064: Flappy Dragon Characters_32
+    21300066: Flappy Dragon Characters_33
+    21300068: Flappy Dragon Characters_34
+    21300070: Flappy Dragon Characters_35
+    21300072: Flappy Dragon Characters_36
+    21300074: Flappy Dragon Characters_37
+    21300076: Flappy Dragon Characters_38
+    21300078: Flappy Dragon Characters_39
+    21300080: Flappy Dragon Characters_40
+    21300082: Flappy Dragon Characters_41
+    21300084: Flappy Dragon Characters_42
+    21300086: Flappy Dragon Characters_43
+    21300088: Flappy Dragon Characters_44
+    21300090: Flappy Dragon Characters_45
+    21300092: Flappy Dragon Characters_46
+    21300094: Flappy Dragon Characters_47
+    21300096: Flappy Dragon Characters_48
+    21300098: Flappy Dragon Characters_49
+    21300100: Flappy Dragon Characters_50
+    21300102: Flappy Dragon Characters_51
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1731
+        width: 301
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37df0cdd628b9e34e9489d5830468758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1729
+        width: 301
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ec875c9da341e468b86e11b6495cc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_2
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1728
+        width: 301
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dfd526cbb7de446b2b2a23f4e47d35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_3
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1726
+        width: 301
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b445af87bc797b146916d1762288b7e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_4
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1734
+        width: 302
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168eaa9a6ed562c4fbd94d49a9e4c0f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1506
+        width: 301
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5db4f72ba50d842bce3fc21ad0b25c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_6
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1502
+        width: 302
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c365a3c2936d6458a4db45d1bc39e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_7
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1500
+        width: 302
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e5a3455b8d7934c92b5d9d8cd9c925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_8
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1499
+        width: 302
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75008869ec67d87418409b47224b5bfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_9
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1506
+        width: 301
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcbe319765b32a44b35ac41fb125e8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1219
+        width: 302
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a738ffcf9d6f142ab1b66ec5070683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1224
+        width: 302
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0778e81eec4ce3a4a8a305ba6f9367f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_12
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1224
+        width: 301
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3815a271dc82047bfce0fa5906e452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_13
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1217
+        width: 301
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91e05ab76f5ca24289b84cecbafb5d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_14
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1224
+        width: 301
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27205dc12113fa047a23e600642ad12c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_15
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1252
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc9fa9cf21cf954686959223f881804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 994
+        width: 301
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0ef362475340e40a4829abcdfce5a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_17
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 999
+        width: 301
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd20f63f4b736548a07f9442ae5f43c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_18
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 999
+        width: 301
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c114f67deadb281488e3a4d0b67f56bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_19
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 992
+        width: 302
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2151c230ab434c94bac7fd66c961694f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_20
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 999
+        width: 302
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c05213575f8da147ad21b15ea22dad5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_21
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1176
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876f9f5aa246cfe4f885dd5babfeae27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_22
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1117
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467f2aade166826449024993c76e716b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_23
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1092
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e8df3472ee1954384ec4da52800723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_24
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 971
+        width: 95
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb6327e17c385d48ac5de5fb998ef3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_25
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1027
+        width: 96
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad0d56aa44a0cb45997deec99a1d40d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 712
+        width: 302
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85a2f6f9fcbad24bbb9ef271286e683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_27
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 712
+        width: 302
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde15ef886eb81a488b4f856c7700748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_28
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 733
+        width: 302
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c10ab4e23f8e6448aef312563110b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_29
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 733
+        width: 302
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c448eebf322d4847a8e0e42c95fc671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_30
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 733
+        width: 302
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e838cf00037872143bc6dde968a9ac69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_31
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 904
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba6937c19d2b474ea46b04cff0fea9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_32
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 832
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f373130c67878504293371dd1ea85051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_33
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 761
+        width: 96
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4eac1de5a5562e4bb67d263c7c69efc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_34
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 723
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b51af00da44b945a5ae7896f8025b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 487
+        width: 301
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f350a9e34ad41bf4e939ef3b5abf7a24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_36
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 487
+        width: 301
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8acdd9ddb1c2d246be136bef296530d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_37
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 508
+        width: 301
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1204ddb089db0644aa905629bc7a303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_38
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 508
+        width: 301
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb66d5acd771c4041be07632c4b26664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_39
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 508
+        width: 301
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8e6a05e541c3c4c97805ee73cb934c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_40
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 649
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec80e703b8f13b4bb88c752b9ae81cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_41
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 566
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d241cbcd660e506489f0898ed7a8cd3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 226
+        width: 301
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35643c3009145114586671fc78ae1661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_43
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 226
+        width: 302
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d5b2c7df5368740b5c104cb6537325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_44
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 247
+        width: 301
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17ec74333b32b94cb85d25e763634a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_45
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 247
+        width: 302
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98053104abdb0ac4981a12ea98fa2fb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_46
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 247
+        width: 301
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f095a9a4c0b9544ba8636c81edaa56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_47
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 302
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a401597bf6586949aec932baa920663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_48
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1
+        width: 302
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1733181ee2e384bb864b5df3644f02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_49
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 22
+        width: 302
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896bb03261fe1c848baf3a096b6798d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_50
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 22
+        width: 302
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763f834de0a472a43a4ad94f464a8f21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Dragon Characters_51
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 22
+        width: 302
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4f646782932234490df701eb834741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b14be28e1b73c3448981ca4686a4e80f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
